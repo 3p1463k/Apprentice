@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Writing
+  url: /writing/
+
+- title: Photos
+  url: /photos/
+
+- title: About
+  url: /about/
+
+- title: Theme Setup
+  url: /theme-setup/
+  
+- title: Keep in Touch!
+  url: /signup/
